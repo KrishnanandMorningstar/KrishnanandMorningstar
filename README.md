@@ -4,7 +4,7 @@ Interested in Space Science, AI, and Technology
   
 A Passionate Learner from India.</h3>
 
-- 🌱 I’m currently learning **Python ,HTML ,CSS ,Java **
+- 🌱 I’m currently learning **Python ,HTML ,CSS and Java **
 
 - 📫 How to reach me **krishnanandbgpsharma@gmail.com**
 
