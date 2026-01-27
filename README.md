@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishnanand Sharma</h1>
-<h3 align="center">  BSc Physics Student | Learning AI & ML  
+<h3 align="center">  BSc Physics Student | Learning AI & ML 
+  
 Interested in Space Science, AI, and Technology
   
 A Passionate Learner from India.</h3>
