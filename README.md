@@ -2,7 +2,7 @@
 <h3 align="center">  BSc Physics Student | Learning AI & ML  
 Interested in Space Science, AI, and Technology
   
-A passionate Learner from India.</h3>
+A Passionate Learner from India.</h3>
 
 - 🌱 I’m currently learning **Python ,HTML ,CSS ,Java **
 
