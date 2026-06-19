@@ -74,16 +74,18 @@ Machine Learning ███████░░░░░░░░ 40%
 ## 🌍 Connect With Me
 
 <p align="center">
+  <a href="mailto:krishnanandbgpsharma@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/krishnanandmorningstar">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+  <a href="https://github.com/KrishnanandMorningstar">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
 
-<a href="https://github.com/KrishnanandMorningstar">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnanandbgpsharma@gmail.com)
+  <a href="https://www.linkedin.com/in/krishnanandmorningstar/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+</p>
 
 ---
 
