@@ -41,8 +41,15 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,js,git,github,linux&perline=6" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,github,linux,vscode,anaconda,mysql,html,css,js&perline=7"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
 
 </p>
 
@@ -76,7 +83,7 @@ Machine Learning ███████░░░░░░░░ 40%
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:krishnanandbgpsharma@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
