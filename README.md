@@ -83,11 +83,7 @@ Machine Learning ███████░░░░░░░░ 40%
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-  <a href="mailto:krishnanandbgpsharma@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45"/>
-  </a>
-</p>
-</p>
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnanandbgpsharma@gmail.com)
 
 ---
 
